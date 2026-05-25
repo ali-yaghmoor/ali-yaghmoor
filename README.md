@@ -46,4 +46,4 @@ The networking background helps more than most people expect. When I configure a
 
 ---
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-yaghmoor&show_icons=true&theme=default&hide_border=true&count_private=false)
+![GitHub Activity](https://ghchart.rshah.org/ali-yaghmoor)
