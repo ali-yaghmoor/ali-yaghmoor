@@ -43,7 +43,3 @@ The networking background helps more than most people expect. When I configure a
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/theali-yaghmoor)
-
----
-
-![GitHub Activity](https://ghchart.rshah.org/ali-yaghmoor)
