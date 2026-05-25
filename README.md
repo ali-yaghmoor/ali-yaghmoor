@@ -4,7 +4,7 @@
 
 ---
 
-3 years running on-prem infrastructure — Cisco networks, Windows Server, Linux, Active Directory, VPNs. Now applying that foundation to AWS.
+3 years running on-prem infrastructure — Cisco networks, Windows Server, Linux, Active Directory, VPNs Thtough my current role and labbing. Now applying that foundation to AWS and MS AZURE.
 
 The networking background helps more than most people expect. When I configure a VPC I already understand what the subnets, routing tables, and security groups are doing at the packet level — it's not abstract.
 
