@@ -1,6 +1,6 @@
 # Ali Yaghmoor
 
-**IT Administrator turned Cloud Engineer** &nbsp;|&nbsp; Toronto, ON
+**IT Administrator turned Cloud Engineer** &nbsp;|&nbsp; Toronto, ON &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/theali-yaghmoor)
 
 ---
 
@@ -40,6 +40,3 @@ The networking background helps more than most people expect. When I configure a
 - AWS Solutions Architect Associate (in progress)
 - CCNA: Switching, Routing & Wireless Essentials — certified
 
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/theali-yaghmoor)
